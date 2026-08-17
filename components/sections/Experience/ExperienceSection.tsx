@@ -4,6 +4,20 @@ import styles from './ExperienceSection.module.css';
 
 const EXPERIENCE = [
   {
+    role: 'Frontend Developer Intern',
+    company: 'Grovyn',
+    period: 'Jun 2026 – Present',
+    type: 'Internship',
+    bullets: [
+      'Developed immersive, production-grade client websites using React and modern frontend libraries, owning the frontend lifecycle from design to deployment.',
+      'Designed and implemented responsive UI/UX experiences with complex interactions, animations, and media-driven sections across desktop, tablet, and mobile.',
+      'Architected reusable React components and modular frontend structures to improve maintainability, scalability, and development velocity.',
+      'Implemented frontend integrations and data-driven interactions, managing asynchronous workflows and application state across the user experience.',
+      'Optimized web performance, media loading, rendering, and responsive behavior to deliver smooth experiences across different screen sizes and devices.',
+      'Collaborated on frontend architecture, debugging, testing, code reviews, and deployment, following modern engineering practices in a client-facing development environment.',
+    ],
+  },
+  {
     role: 'Full Stack Design & Development Intern',
     company: 'Wingcruit Consulting Service',
     period: 'Feb 2026 – May 2026',
