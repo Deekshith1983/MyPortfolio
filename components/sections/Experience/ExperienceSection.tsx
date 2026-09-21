@@ -6,7 +6,7 @@ const EXPERIENCE = [
   {
     role: 'Frontend Developer Intern',
     company: 'Grovyn',
-    period: 'Jun 2026 – Present',
+    period: 'Jun 2026 – Sep 2026',
     type: 'Internship',
     bullets: [
       'Developed immersive, production-grade client websites using React and modern frontend libraries, owning the frontend lifecycle from design to deployment.',
