@@ -73,7 +73,7 @@ export default function AboutSection() {
                 Email
               </a>
               <a
-                href="https://drive.google.com/file/d/1yby8ifeEacZOixQOC4oSZkAzqrqyt1cB/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mmH2ELzfo2x-ktAG_p67SLJH_t-sS0WI/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`${styles.linkBtn} ${styles.resumeBtn}`}
